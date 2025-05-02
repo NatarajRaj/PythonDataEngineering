@@ -1,0 +1,6 @@
+INFO 2025-05-02 08:30:21 Process started
+ERROR 2025-05-02 08:35:43 Connection failed
+DEBUG 2025-05-02 08:40:12 Data loaded successfully
+INFO 2025-05-02 08:45:01 Process finished
+WARNING 2025-05-02 08:50:23 Disk space low
+ERROR 2025-05-02 08:55:45 Timeout occurred

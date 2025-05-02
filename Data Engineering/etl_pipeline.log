@@ -1,0 +1,7 @@
+2025-05-02 17:04:20,312 | INFO | ETL pipeline started
+2025-05-02 17:04:20,312 | INFO | Starting data extraction from data_source.csv
+2025-05-02 17:04:20,312 | INFO | Data extraction complete
+2025-05-02 17:04:20,312 | INFO | Starting data transformation
+2025-05-02 17:04:20,312 | ERROR | Validation error during transformation: Missing 'id' in record: {'name': 'Bob'}
+2025-05-02 17:04:20,312 | CRITICAL | ETL pipeline failed: Missing 'id' in record: {'name': 'Bob'}
+2025-05-02 17:04:20,312 | INFO | ETL pipeline finished (cleanup done)

@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "purchases": [
+            {"item": "Book", "amount": 20},
+            {"item": "Pen", "amount": 5}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Alice Smith",
+        "email": "alice@example.com",
+        "purchases": [
+            {"item": "Notebook", "amount": 15}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "purchases": []
+    }
+]

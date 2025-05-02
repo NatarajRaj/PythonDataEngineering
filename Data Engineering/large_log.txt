@@ -1,0 +1,5 @@
+2024-05-01 12:00:01 INFO User login successful: user_id=123
+2024-05-01 12:01:15 ERROR Failed to process payment: order_id=987
+2024-05-01 12:02:30 INFO File uploaded: filename=document.pdf
+2024-05-01 12:03:45 WARNING Disk space low on server01
+2024-05-01 12:05:10 INFO User logout: user_id=123
